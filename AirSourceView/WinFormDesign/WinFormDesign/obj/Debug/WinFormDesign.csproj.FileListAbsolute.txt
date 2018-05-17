@@ -1,0 +1,14 @@
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\bin\Debug\WinFormDesign.exe.config
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\bin\Debug\WinFormDesign.exe
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\bin\Debug\WinFormDesign.pdb
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.csproj.ResolveComReference.cache
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.DataFlowForm.resources
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.MainForm.resources
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.Properties.Resources.resources
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.SerialSetForm.resources
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.SoftWareForm.resources
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.csproj.GenerateResource.Cache
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.csproj.CoreCompileInputs.cache
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.exe
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.pdb
+E:\桌面\C#工程实践\空气源热泵监控(带数据保存)\空气源热泵监控\WinFormDesign\WinFormDesign\obj\Debug\WinFormDesign.csprojResolveAssemblyReference.cache
